@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">View3D</string>
+    <string name="common_text_ok">ＯＫ</string>
+    <string name="common_text_cancel">キャンセル</string>
+    <string name="common_text_warning">警告</string>
+    <string name="common_text_error">エラー</string>
+    <string name="common_text_check">確認</string>
+    <string name="common_text_send">送信</string>
+    <string name="common_text_bug_report">予期しないエラーが発生しました。開発元にエラーを送信してください。</string>
+    <string name="search">検索</string>
+    <string name="left">左画像</string>
+    <string name="right">右画像</string>
+    
+</resources>
